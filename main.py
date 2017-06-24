@@ -79,5 +79,5 @@ def run(start_date, end_date, token, excel):
         return print('result downloaded as CSV')
 
 # RUN EVERYTHING
-#run('2017-05-01','2017-06-15' ,'38ab33b9f32a3478555d1e06189d50f01a872966','excel')
+#run('2017-05-01','2017-06-15' ,'xxxx','excel')
 run(sys.argv[2],sys.argv[4] ,sys.argv[6],sys.argv[8])
