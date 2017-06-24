@@ -1,8 +1,8 @@
-# Analysis with Giosg API Chat data
+# Analysis with API Chat data
 
 ### Installation
 
-Task done with  python 3.5 
+Run with python 3 and above 
 
 You can clone or download the repo to your computer
 Open terminal
@@ -117,7 +117,7 @@ python <filename.py> --start-date YYYY-MM-DD --end-date YYYY-MM-DD --token xxxx 
 
 ### Jupyter Notebook Visualisations with Seaborn
 
-The  exported results in the cSV file were read in Jupyter Notebook, using Pandas DataFrame, and the results of the top 3 dates were visualised with Seaborn.
+The  exported results in the CSV file were read in Jupyter Notebook, using Pandas DataFrame, and the results of the top 3 dates were visualised with Seaborn.
 
 ### Development
 Done by Farhana
